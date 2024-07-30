@@ -1,0 +1,5 @@
+[user]
+	name = NimaPi
+	email = NimaPi0831@gmail.com
+[http]
+	sslVerify = false
